@@ -69,6 +69,13 @@ const certifications = [
     link: "https://www.coursera.org/account/accomplishments/specialization/VS27OG6HMDWD",
   },
   {
+  title: "C# Programming for Unity Game Development",
+  org: "University of Colorado Colorado Springs",
+  learned:
+    "Strengthened my C# foundations for Unity game development, including scripting, technical problem solving, and gameplay-oriented implementation.",
+  link: "https://www.coursera.org/account/accomplishments/specialization/4DWY0YFVQ1KD",
+ },
+  {
     title: "World Design for Video Games",
     org: "California Institute of the Arts",
     learned:
